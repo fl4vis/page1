@@ -1,22 +1,14 @@
 {
   "files": {
-    "main.css": "/fl4vis/page1.git/static/css/main.cfa1856a.css",
-    "main.js": "/fl4vis/page1.git/static/js/main.bc926998.js",
+    "main.css": "/fl4vis/page1.git/static/css/main.d30c6d8f.css",
+    "main.js": "/fl4vis/page1.git/static/js/main.f4ce51e5.js",
     "static/media/mariachi1.png": "/fl4vis/page1.git/static/media/mariachi1.fe9b6042f9f097de2db5.png",
-    "static/media/bg.png": "/fl4vis/page1.git/static/media/bg.5c765a8e302cd6f15ba6.png",
-    "static/media/capitol.png": "/fl4vis/page1.git/static/media/capitol.002af04a53fc9c318280.png",
-    "static/media/church.png": "/fl4vis/page1.git/static/media/church.66be1ebbbe687a5c448b.png",
-    "static/media/pyramid.png": "/fl4vis/page1.git/static/media/pyramid.ca76e370643cb8be8ae7.png",
-    "static/media/statue.png": "/fl4vis/page1.git/static/media/statue.699d91fcf2243d2cef65.png",
-    "static/media/moon.png": "/fl4vis/page1.git/static/media/moon.dee231c3530c9ce54a71.png",
-    "static/media/stars4.png": "/fl4vis/page1.git/static/media/stars4.336105d92903e77368f1.png",
-    "static/media/cloud1.png": "/fl4vis/page1.git/static/media/cloud1.a3c5a58cf911b3ec4ffa.png",
     "index.html": "/fl4vis/page1.git/index.html",
-    "main.cfa1856a.css.map": "/fl4vis/page1.git/static/css/main.cfa1856a.css.map",
-    "main.bc926998.js.map": "/fl4vis/page1.git/static/js/main.bc926998.js.map"
+    "main.d30c6d8f.css.map": "/fl4vis/page1.git/static/css/main.d30c6d8f.css.map",
+    "main.f4ce51e5.js.map": "/fl4vis/page1.git/static/js/main.f4ce51e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfa1856a.css",
-    "static/js/main.bc926998.js"
+    "static/css/main.d30c6d8f.css",
+    "static/js/main.f4ce51e5.js"
   ]
 }
