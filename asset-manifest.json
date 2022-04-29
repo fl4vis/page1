@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/fl4vis/page1/static/css/main.bfe0f3d5.css",
-    "main.js": "/fl4vis/page1/static/js/main.f4ce51e5.js",
-    "static/media/mariachi1.png": "/fl4vis/page1/static/media/mariachi1.fe9b6042f9f097de2db5.png",
-    "index.html": "/fl4vis/page1/index.html",
-    "main.bfe0f3d5.css.map": "/fl4vis/page1/static/css/main.bfe0f3d5.css.map",
-    "main.f4ce51e5.js.map": "/fl4vis/page1/static/js/main.f4ce51e5.js.map"
+    "main.css": "/page1/static/css/main.dfab1e4d.css",
+    "main.js": "/page1/static/js/main.f4ce51e5.js",
+    "static/media/mariachi1.png": "/page1/static/media/mariachi1.fe9b6042f9f097de2db5.png",
+    "index.html": "/page1/index.html",
+    "main.dfab1e4d.css.map": "/page1/static/css/main.dfab1e4d.css.map",
+    "main.f4ce51e5.js.map": "/page1/static/js/main.f4ce51e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfe0f3d5.css",
+    "static/css/main.dfab1e4d.css",
     "static/js/main.f4ce51e5.js"
   ]
 }
